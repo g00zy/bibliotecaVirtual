@@ -1,0 +1,78 @@
+Romeu e Julieta;William Shakespeare;1597;Teatro;Inglês
+Ifigênia;Eurípides;-405;Teatro;Grego Antigo
+Hamlet;William Shakespeare;1603;Teatro;Inglês
+A Tempestade;William Shakespeare;1611;Teatro;Inglês
+Oréstia;Ésquilo;-458;Teatro;Grego Antigo
+Moby Dick;Herman Melville;1851;Romance;Inglês
+Pais e Filhos;Ivan Turguêniev;1862;Romance;Russo
+A Consciência de Zeno;Italo Svevo;1923;Romance;Italiano
+O Finado Mattia Pascal;Luigi Pirandello;1904;Romance;Italiano
+Guerra e Paz;Liev Tolstói;1869;Romance;Russo
+Os Irmãos Karamázov;Fiódor Dostoiévski;1880;Romance;Russo
+O Grande Gatsby;F. Scott Fitzgerald;1925;Romance;Inglês
+Crime e Castigo;Fiódor Dostoiévski;1866;Romance;Russo
+O Idiota;Fiódor Dostoiévski;1869;Romance;Russo
+O Retrato de Dorian Gray;Oscar Wilde;1890;Romance;Inglês
+Dom Quixote;Miguel de Cervantes;1605;Romance;Espanhol
+A Pequena Fadette;George Sand;1849;Romance;Francês
+Anna Karênina;Lev Tolstói;1877;Romance;Russo
+Fausto;Goethe;1808;Romance;Alemão
+Jane Eyre;Charlotte Brontë;1847;Romance;Inglês
+Memórias Póstumas de Brás Cubas;Machado de Assis;1881;Romance;Brasileiro
+Mrs Dalloway;Virginia Woolf;1925;Romance;Inglês
+Frankenstein;Mary Shelley;1818;Romance;Inglês
+O Processo;Franz Kafka;1925;Romance;Alemão
+Madame Bovary;Gustave Flaubert;1857;Romance;Francês
+O Morro dos Ventos Uivantes;Emily Brontë;1847;Romance;Inglês
+O Conde de Monte Cristo;Alexandre Dumas;1844;Romance;Francês
+Quincas Borba;Machado de Assis;1891;Romance;Brasileiro
+Orgulho e Preconceito;Jane Austen;1813;Romance;Inglês
+Recordações do Escrivão Isaías Caminha;Lima Barreto;1909;Romance;Brasileiro
+Triste Fim de Policarpo Quaresma;Lima Barreto;1911;Romance;Brasileiro
+Vida e Morte de M. J. Gonzaga de Sá;Lima Barreto;1919;Romance;Brasileiro
+O Vermelho e o Negro;Stendhal;1830;Romance;Francês
+Os Trabalhadores do Mar;Victor Hugo;1866;Romance;Francês
+Os Sertões;Euclides da Cunha;1902;Romance;Brasileiro
+Michael Kohlhaas;Heinrich Von Kleist;1810;Romance;Alemão
+Dom Casmurro;Machado de Assis;1899;Romance;Brasileiro
+A Rainha Do Ignoto;Emília Freitas;1899;Romance;Brasileiro
+O Mistério Da Estrada De Sintra;Eça De Queirós e Ramalho Ortigão;1870;Romance;Português
+1984;George Orwell;1949;Romance;Inglês
+Fahrenheit 451;Ray Bradbury;1953;Romance;Inglês
+Androides Sonham com Ovelhas Elétricas?;Philip K. Dick;1968;Romance;Inglês
+A Ilha Do Doutor Moreau;H. G. Wells;1896;Romance;Inglês
+A Guerra Dos Mundos;H. G. Wells;1898;Romance;Inglês
+O Homem Invisível;H. G. Wells;1897;Romance;Inglês
+Roadside Picnic;Boris Strugatsky;1972;Romance;Russo
+O Outro Mundo, Ou Os Estados e Impérios Da Lua;Cyrano De Bergerac;1657;Romance;Francês
+O Hobbit;J.R.R. Tolkien;1937;Romance;Inglês
+A Sociedade do Anel;J.R.R. Tolkien;1954;Romance;Inglês
+As Duas Torres;J.R.R. Tolkien;1954;Romance;Inglês
+O Retorno do Rei;J.R.R. Tolkien;1955;Romance;Inglês
+Beren e Lúthien;J.R.R. Tolkien;2017;Romance;Inglês
+Os Filhos de Húrin;J.R.R. Tolkien;2007;Romance;Inglês
+A Queda de Gondolin;J.R.R. Tolkien;2018;Romance;Inglês
+A Queda de Númenor;J.R.R. Tolkien;2022;Romance;Inglês
+O Código Da Vinci;Dan Brown;2003;Romance;Inglês
+Anjos e Demônios;Dan Brown;2000;Romance;Inglês
+Ponto de Impacto;Dan Brown;2001;Romance;Inglês
+A Joia Das Sete Estrelas;Bram Stoker;1903;Romance;Inglês
+O Drácula;Bram Stoker;1897;Romance;Inglês
+A Cidade Do Sol;Khaled Hosseini;2007;Romance;Afegão
+A Divina Comédia;Dante Alighieri;1320;Poesia;Italiano
+Paraíso Perdido;John Milton;1667;Poesia;Inglês
+Jerusalém Libertada;Torquato Tasso;1581;Poesia;Italiano
+Don Juan;Lord Byron;1819;Poesia;Inglês
+O Livro do Desassossego;Fernando Pessoa;1982;Poesia;Português
+Os Lusíadas;Luís de Camões;1572;Poesia;Português
+Saga de Njáll;Autor desconhecido;1280;Saga;Islandês
+Contos do Grotesco e do Arabesco;Edgar Allan Poe;1840;Contos;Inglês
+O Alienista;Machado de Assis;1882;Contos;Brasileiro
+Contos Policiais;Fernando Pessoa;2007;Contos;Português
+Os Ladrões De Val De Buia;Hipólito Machado;1890;Contos;Brasileiro
+A Revolução dos Bichos;George Orwell;1945;Fábula;Inglês
+Narrativas Verdadeiras;Luciano De Samósata;150;Sátira;Grego Antigo
+Contos Inacabados de Númenor e da Terra-Média;J.R.R. Tolkien;1980;Contos;Inglês
+O Silmarillion;J.R.R. Tolkien;1977;Mitologia;Inglês
+A Natureza da Terra-média;J.R.R. Tolkien;2021;Mitologia;Inglês
+O Caçador de Pipas;Khaled Hosseini;2003;Romance;Afegão
