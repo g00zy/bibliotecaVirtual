@@ -1,0 +1,59 @@
+Romeu e Julieta;Hamlet
+Romeu e Julieta;A Tempestade
+Hamlet;A Tempestade
+Ifigênia;Oréstia
+Crime e Castigo;Os Irmãos Karamázov
+Crime e Castigo;O Idiota
+Os Irmãos Karamázov;O Idiota
+Guerra e Paz;Anna Karênina
+Anna Karênina;Pais e Filhos
+Memórias Póstumas de Brás Cubas;Quincas Borba
+Memórias Póstumas de Brás Cubas;Dom Casmurro
+Quincas Borba;Dom Casmurro
+Os Sertões;Memórias Póstumas de Brás Cubas
+A Rainha Do Ignoto;Dom Casmurro
+Recordações do Escrivão Isaías Caminha;Triste Fim de Policarpo Quaresma
+Triste Fim de Policarpo Quaresma;Vida e Morte de M. J. Gonzaga de Sá
+O Mistério Da Estrada De Sintra;Os Lusíadas
+Madame Bovary;O Vermelho e o Negro
+Madame Bovary;Os Trabalhadores do Mar
+O Conde de Monte Cristo;Os Trabalhadores do Mar
+Fausto;O Processo
+Fausto;Michael Kohlhaas
+Orgulho e Preconceito;Jane Eyre
+Jane Eyre;O Morro dos Ventos Uivantes
+Frankenstein;O Retrato de Dorian Gray
+Romeu e Julieta;Orgulho e Preconceito
+Hamlet;Jane Eyre
+O Grande Gatsby;Moby Dick
+Mrs Dalloway;O Grande Gatsby
+A Cidade Do Sol;O Caçador de Pipas
+A Consciência de Zeno;O Finado Mattia Pascal
+A Consciência de Zeno;Madame Bovary
+1984;Fahrenheit 451
+1984;A Revolução dos Bichos
+Fahrenheit 451;Androides Sonham com Ovelhas Elétricas?
+Roadside Picnic;Androides Sonham com Ovelhas Elétricas?
+O Outro Mundo, Ou Os Estados e Impérios Da Lua;Narrativas Verdadeiras
+A Guerra Dos Mundos;O Homem Invisível
+A Guerra Dos Mundos;A Ilha Do Doutor Moreau
+O Homem Invisível;A Ilha Do Doutor Moreau
+O Hobbit;A Sociedade do Anel
+A Sociedade do Anel;As Duas Torres
+As Duas Torres;O Retorno do Rei
+O Silmarillion;Contos Inacabados de Númenor e da Terra-Média
+O Silmarillion;A Natureza da Terra-média
+Beren e Lúthien;Os Filhos de Húrin
+Os Filhos de Húrin;A Queda de Gondolin
+A Queda de Númenor;O Silmarillion
+O Código Da Vinci;Anjos e Demônios
+Anjos e Demônios;Ponto de Impacto
+O Drácula;A Joia Das Sete Estrelas
+A Divina Comédia;Paraíso Perdido
+A Divina Comédia;Jerusalém Libertada
+Don Juan;Paraíso Perdido
+Os Lusíadas;O Livro do Desassossego
+Contos do Grotesco e do Arabesco;O Alienista
+O Alienista;Os Ladrões De Val De Buia
+Contos Policiais;O Livro do Desassossego
+Saga de Njáll;Narrativas Verdadeiras
